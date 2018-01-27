@@ -27,6 +27,8 @@ import java.util.ArrayList;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 
+import io.github.giuseppebrb.ardutooth.Ardutooth;
+
 public class MainActivity extends AppCompatActivity {
 
     Button b1,b2,b3,b4;
