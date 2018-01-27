@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ardutooth-v1/ardutooth-v1.iml" filepath="$PROJECT_DIR$/ardutooth-v1/ardutooth-v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/tamuhack2018.iml" filepath="$PROJECT_DIR$/tamuhack2018.iml" />
     </modules>
   </component>
